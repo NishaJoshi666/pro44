@@ -1,5 +1,0 @@
-class snake{
-    constructor(){
-        
-    }
-}
